@@ -1,0 +1,6 @@
+framework module RSCustomAlertSheetViewLib {
+  umbrella header "RSCustomAlertSheetViewLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
